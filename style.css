@@ -1,7 +1,7 @@
 .navbar {
-    position: absolute;
-    width: 1440px;
-    height: 86px;
+    position:relative;
+    width: 1500px;
+    height: 90px;
     left: -21px;
     top: 0px;
     
@@ -14,7 +14,7 @@ height: 728px;
 left: 0px;
 top: 72px;
 
-background: linear-gradient(180deg, #FFF2C5 0%, rgba(250, 250, 250, 0) 100%);
+background: linear-gradient(180deg, #be76e8 0%, rgba(250, 250, 250, 0) 100%);
 backdrop-filter: blur(125px);
 }
 .logo{
